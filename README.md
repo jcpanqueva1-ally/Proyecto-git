@@ -60,3 +60,11 @@ Esto es una linea Divisora
 ---
 Asi tambien 
 ***
+
+# Saltos de linea
+Los saltos de linea se dan dando un espacio 
+
+asi es que se hace bro
+
+Y se pueden poner
+- titulos
