@@ -43,7 +43,14 @@ Proyecto
 
 # Tablas
  
-		| Nombre | | Edad | | Profesion |
-		| ------ | | ---- | | --------- |
-		| Juan   | | 19   | | ADSI      |
-		| tom    | | 29   | | PEAKY BLI |
+| Nombre | | Edad | | Profesion |
+| ------ | | ---- | | --------- |
+| Juan   | | 19   | | ADSI      |
+| tom    | | 29   | | PEAKY BLI |
+
+# citas
+
+Esto es una cita:
+
+> Esto es una cita y se quita dando 2 espacios
+
