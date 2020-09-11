@@ -46,4 +46,4 @@ Proyecto
 		| Nombre | | Edad | | Profesion |
 		| ------ | | ---- | | --------- |
 		| Juan   | | 19   | | ADSI      |
-		| tom    | | 29   | | PEAKY BLINDER|
+		| tom    | | 29   | | PEAKY BLI |
