@@ -23,3 +23,13 @@ Emphasis
 - Texto a ~~editar~~
 		
 -Texto de _practica_ *para* __editar__ ~~un~~ **marckdown**
+
+Listas
+
+1. Lista uno
+2. Lista uno 
+3. Lista uno
+
+- Lista dos
+- Lista dos
+- Lista dos
