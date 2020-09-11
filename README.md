@@ -46,7 +46,7 @@ Proyecto
     | Nombre | | Edad | | Profesion |
     | ------ | | ---- | | --------- |
     | Juan   | | 19   | | ADSI      |
- | tom    | | 29   | | PEAKY BLI |
+    | tom    | | 29   | | PEAKY BLI |
 
 # citas
 
