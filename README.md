@@ -39,4 +39,4 @@ Proyecto
 - [Este es un link](http://www.google.com)
 
 # Imagenes
-- ![me foto ] (C:\Users\Diego\Pictures\Ilustracion\Uso)
+- ![me foto ] (https://www.lifeder.com/frases-de-pain/)
