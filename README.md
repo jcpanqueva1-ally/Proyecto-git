@@ -37,3 +37,6 @@ Proyecto
 # Link 
 - <a href="http://www.google.com">Este Es un link</a>
 - [Este es un link](http://www.google.com)
+
+# Imagenes
+- ![me foto ] (C:\Users\Diego\Pictures\Ilustracion\Uso)
