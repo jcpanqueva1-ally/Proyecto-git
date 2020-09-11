@@ -40,3 +40,10 @@ Proyecto
 
 # Imagenes
 ![me foto ](https://vignette.wikia.nocookie.net/narutofanones/images/8/8d/Nagato_Parte_I.png/revision/latest?cb=20151013200532&path-prefix=es)
+
+# Tablas
+
+		|Nombre | |Edad | |Profesion |
+		|------ | |---- | |--------- |
+		|Juan   | |19   | |ADSI      |
+		|tom    | |29   | |PEAKY BLINDER|
